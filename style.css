@@ -5,7 +5,7 @@ body{
     font-family: 'PT Serif', serif;
     margin: 0px;
 }
-section{
+.god{
     display: flex;
     margin-bottom: 150px;
 }
