@@ -1,0 +1,29 @@
+.fire{
+    color: rgb(255, 139, 6);
+}
+body{
+    font-family: 'PT Serif', serif;
+}
+section{
+    display: flex;
+    
+}
+.width{
+    width: 50%;
+    padding-left: 5%;
+}
+.width img{
+    width: 80%;
+}
+h1{
+    font-size: 50px;
+    color: tomato;
+}
+.link-btn{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
